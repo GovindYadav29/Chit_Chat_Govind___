@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975802448670",
+    "firebase_url": "https://chit-chat-1b4e2.firebaseio.com",
+    "project_id": "chit-chat-1b4e2",
+    "storage_bucket": "chit-chat-1b4e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975802448670:android:fd9ed2802764ccb328a70f",
+        "android_client_info": {
+          "package_name": "com.govind.chitchatgovind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975802448670-v19d1b64rjoe4b0nfpv0f58cu1523qqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.govind.chitchatgovind",
+            "certificate_hash": "483e6deff665f3aabed3c1f83d5b3800682d0980"
+          }
+        },
+        {
+          "client_id": "975802448670-7qeq9hc4jerm2fvsgidq5vit5292rgdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTBG0VudHpPU2wohD2KJ8tQYuFmDADw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975802448670-7qeq9hc4jerm2fvsgidq5vit5292rgdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

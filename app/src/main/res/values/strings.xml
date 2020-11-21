@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Chit Chat (Govind)</string>
+    <string name="welcome_to_chit_chat">Welcome to Chit Chat</string>
+    <string name="hint">hint</string>
+    <string name="log_out">Log out</string>
+    <string name="e_mail">E-mail</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_users">All Users</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="create_a_new_account">Create a New Account ?</string>
+    <string name="display_name1">Display Name</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="your_email">Your Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="friends_page">Friends Page</string>
+    <string name="chat_page">Chat Page</string>
+    <string name="display_name">Display Name</string>
+    <string name="hi_there_i_m_using_govind_chit_chat">Hi there, I\'m using Govind- Chit Chat</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="welcome_to_chit_chat_govind">Welcome to Chit Chat -Govind</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="default_status">Hi there, I\'m using Govind- Chit chat</string>
+    <string name="default_name">Display Name</string>
+    <string name="passwordl">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="reg_account">Create a new account</string>
+    <string name="welcome_note">Welcome to Govind-Chit chat</string>
+</resources>
